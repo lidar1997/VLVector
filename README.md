@@ -1,5 +1,4 @@
-=============================
-=     About the project     =
+About the project
 =============================
 
 The final project in: programming workshop in C & C++ course.
@@ -8,8 +7,8 @@ until some pre-defined capacity, and after that uses a dynamic allocated
 memory (heap).
 
 
-=============================
-=      File description     =
+
+File description
 =============================
 
 vl_vector.h - declaration and implementations of the vl_vector - a generic vector 
