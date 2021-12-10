@@ -1,7 +1,7 @@
 About the project
 =============================
 
-The final project in: programming workshop in C & C++ course.
+The final project at: programming workshop in C & C++ course.
 The project is a generic implementation of std::vector, using stack memory 
 until some pre-defined capacity, and after that uses a dynamic allocated 
 memory (heap).
